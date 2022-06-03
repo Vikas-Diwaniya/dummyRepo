@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Template">
+    <jcr:content
+        cq:lastModified="{Date}2022-06-01T11:29:03.104+05:30"
+        cq:lastModifiedBy="admin"
+        cq:lastReplicated="{Date}2022-05-30T14:06:23.826+05:30"
+        cq:lastReplicated_publish="{Date}2022-05-30T14:06:23.826+05:30"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicatedBy_publish="admin"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:templateType="/conf/flowdemo/settings/wcm/template-types/empty-page"
+        jcr:description="Template for testing Style System"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Testing Style Template"
+        status="enabled"/>
+</jcr:root>

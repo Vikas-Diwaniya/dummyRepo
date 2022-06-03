@@ -1,0 +1,12 @@
+.cmp-title-italic {
+  font-style: italic !important;
+
+}
+
+.cmp-title-bold {
+  font-weight: bold !important;
+}
+
+.cmp-title-und {
+ text-decoration: underline !important;
+}
